@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.propertie" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*conv</mask>
       <mask>*con</mask>
@@ -16,25 +16,25 @@
       <mask>*.co</mask>
       <mask>*.c</mask>
       <mask>*.jxml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
       <mask>*.propertir</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
