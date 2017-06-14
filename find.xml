@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*conv</mask>
-      <mask>*con</mask>
-      <mask>*co</mask>
-      <mask>*c</mask>
       <mask>*x</mask>
       <mask>*xml</mask>
       <mask>*.conf</mask>
@@ -18,24 +15,28 @@
       <mask>*.c</mask>
       <mask>*.jxml</mask>
       <mask>*.propertir</mask>
-      <mask>*.prop</mask>
-      <mask>*.pr</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.офмф</mask>
+      <mask>*.офм</mask>
+      <mask>*.оф</mask>
+      <mask>*.о</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
