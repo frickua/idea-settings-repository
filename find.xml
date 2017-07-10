@@ -5,14 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="retail*.java" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.офмф</mask>
-      <mask>*.офм</mask>
-      <mask>*.оф</mask>
-      <mask>*.о</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
@@ -22,20 +16,27 @@
       <mask>*.propertie</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.чыв</mask>
       <mask>*.чы</mask>
       <mask>*.ч</mask>
       <mask>*.sxs</mask>
       <mask>*.sx</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
       <mask>*.xsd</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.о</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>r*.java</mask>
+      <mask>re*.java</mask>
+      <mask>reta*.java</mask>
+      <mask>retai*.java</mask>
+      <mask>retail*.java</mask>
     </recentFileMasks>
   </component>
 </application>
