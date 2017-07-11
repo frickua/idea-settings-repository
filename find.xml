@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properti</mask>
@@ -22,19 +19,21 @@
       <mask>*.s</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.x</mask>
       <mask>*.о</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>r*.java</mask>
       <mask>re*.java</mask>
       <mask>reta*.java</mask>
       <mask>retail*.java</mask>
       <mask>retai*.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
