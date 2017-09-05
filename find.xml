@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -22,13 +20,18 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>r</mask>
       <mask>ro</mask>
       <mask>rou</mask>
       <mask>rout</mask>
       <mask>route</mask>
       <mask>routes</mask>
+      <mask>*еы</mask>
+      <mask>*е</mask>
+      <mask>*</mask>
+      <mask>*t.s</mask>
+      <mask>*ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
