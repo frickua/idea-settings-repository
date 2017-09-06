@@ -8,9 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -24,18 +21,23 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>r</mask>
-      <mask>ro</mask>
-      <mask>rou</mask>
-      <mask>rout</mask>
-      <mask>route</mask>
-      <mask>routes</mask>
       <mask>*еы</mask>
       <mask>*е</mask>
       <mask>*</mask>
       <mask>*t.s</mask>
       <mask>*ts</mask>
       <mask>*.ts</mask>
+      <mask>кщгеу</mask>
+      <mask>кщге</mask>
+      <mask>кщг</mask>
+      <mask>кщ</mask>
+      <mask>к</mask>
+      <mask>r</mask>
+      <mask>ro</mask>
+      <mask>rou</mask>
+      <mask>rout</mask>
+      <mask>route</mask>
+      <mask>routes</mask>
     </recentFileMasks>
   </component>
 </application>
