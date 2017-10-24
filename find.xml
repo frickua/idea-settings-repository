@@ -3,19 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="routes" />
     <recentFileMasks>
-      <mask>rou</mask>
-      <mask>rout</mask>
-      <mask>route</mask>
-      <mask>routes</mask>
-      <mask>*.jav</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.js</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*</mask>
       <mask>*.java*</mask>
       <mask>*R*.java</mask>
       <mask>*Re*.java</mask>
@@ -31,9 +24,17 @@
       <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>r</mask>
+      <mask>ro</mask>
+      <mask>rou</mask>
+      <mask>rout</mask>
+      <mask>route</mask>
+      <mask>routes</mask>
     </recentFileMasks>
   </component>
 </application>
