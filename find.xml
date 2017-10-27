@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.htm</mask>
@@ -20,20 +21,20 @@
       <mask>*Repositor*.java</mask>
       <mask>*Repository*.java</mask>
       <mask>**.java</mask>
-      <mask>*.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>r</mask>
       <mask>ro</mask>
       <mask>rou</mask>
       <mask>rout</mask>
       <mask>route</mask>
       <mask>routes</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
