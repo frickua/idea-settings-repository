@@ -2,20 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.java*</mask>
-      <mask>*R*.java</mask>
-      <mask>*Re*.java</mask>
-      <mask>*Rep*.java</mask>
-      <mask>*Repo*.java</mask>
-      <mask>*Repos*.java</mask>
-      <mask>*Reposi*.java</mask>
       <mask>*Reposit*.java</mask>
       <mask>*Reposito*.java</mask>
       <mask>*Repositor*.java</mask>
@@ -24,17 +14,28 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
       <mask>r</mask>
       <mask>ro</mask>
       <mask>rou</mask>
       <mask>rout</mask>
       <mask>route</mask>
+      <mask>route.</mask>
+      <mask>route.com</mask>
+      <mask>route.co</mask>
+      <mask>route.con</mask>
+      <mask>route.conf</mask>
+      <mask>routes.conf</mask>
+      <mask>routes.con</mask>
+      <mask>routes.co</mask>
+      <mask>routes.c</mask>
+      <mask>routes.</mask>
       <mask>routes</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
