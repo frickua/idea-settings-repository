@@ -5,26 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Reposit*.java</mask>
-      <mask>*Reposito*.java</mask>
-      <mask>*Repositor*.java</mask>
-      <mask>*Repository*.java</mask>
-      <mask>**.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>r</mask>
-      <mask>ro</mask>
-      <mask>rou</mask>
-      <mask>rout</mask>
-      <mask>route</mask>
       <mask>route.</mask>
       <mask>route.com</mask>
       <mask>route.co</mask>
@@ -36,6 +18,25 @@
       <mask>routes.c</mask>
       <mask>routes.</mask>
       <mask>routes</mask>
+      <mask>USer</mask>
+      <mask>USe</mask>
+      <mask>US</mask>
+      <mask>Ue</mask>
+      <mask>U</mask>
+      <mask>Us</mask>
+      <mask>Use</mask>
+      <mask>User</mask>
+      <mask>User*</mask>
+      <mask>*User*</mask>
+      <mask>*AUser*</mask>
+      <mask>*AmsUser*</mask>
+      <mask>*AmsUser</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
