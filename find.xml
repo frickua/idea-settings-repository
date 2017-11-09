@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.log" />
     <recentFileMasks>
-      <mask>route.</mask>
-      <mask>route.com</mask>
-      <mask>route.co</mask>
       <mask>route.con</mask>
       <mask>route.conf</mask>
       <mask>routes.conf</mask>
@@ -31,11 +29,14 @@
       <mask>*AmsUser*</mask>
       <mask>*AmsUser</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.lo</mask>
+      <mask>*.log</mask>
     </recentFileMasks>
   </component>
 </application>
