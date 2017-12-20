@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>USer</mask>
       <mask>USe</mask>
@@ -26,8 +26,6 @@
       <mask>*.l</mask>
       <mask>*.lo</mask>
       <mask>*.log</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
@@ -39,6 +37,8 @@
       <mask>*.ja</mask>
       <mask>*.jave</mask>
       <mask>*.java</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
