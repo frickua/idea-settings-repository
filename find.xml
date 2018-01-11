@@ -5,13 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="Readme*" />
     <recentFileMasks>
-      <mask>*AUser*</mask>
-      <mask>*AmsUser*</mask>
-      <mask>*AmsUser</mask>
-      <mask>*</mask>
-      <mask>*.l</mask>
       <mask>*.lo</mask>
       <mask>*.log</mask>
       <mask>*.jav</mask>
@@ -23,20 +18,25 @@
       <mask>*.ja</mask>
       <mask>*.jave</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.пкщщ</mask>
       <mask>*.пкщ</mask>
       <mask>*.пк</mask>
       <mask>*.п</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.groov</mask>
+      <mask>*.groo</mask>
+      <mask>*.gro</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>R</mask>
+      <mask>Rea</mask>
+      <mask>Readm</mask>
+      <mask>Readme</mask>
+      <mask>Readme*</mask>
     </recentFileMasks>
   </component>
 </application>
