@@ -5,17 +5,15 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.log</mask>
-      <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
-      <mask>*.ja</mask>
       <mask>*.jave</mask>
-      <mask>*.java</mask>
       <mask>*.пкщщ</mask>
       <mask>*.пкщ</mask>
       <mask>*.пк</mask>
@@ -32,10 +30,13 @@
       <mask>Readme*</mask>
       <mask>Readme</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
