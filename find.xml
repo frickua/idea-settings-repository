@@ -5,15 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.groovy</mask>
-      <mask>*.groov</mask>
-      <mask>*.groo</mask>
-      <mask>*.gro</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>R</mask>
-      <mask>Rea</mask>
       <mask>Readm</mask>
       <mask>Readme*</mask>
       <mask>Readme</mask>
@@ -25,10 +18,6 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>0</mask>
-      <mask>*</mask>
-      <mask>*S</mask>
-      <mask>*Sp</mask>
-      <mask>*Spe</mask>
       <mask>*Specd.</mask>
       <mask>*Specd</mask>
       <mask>*Spec</mask>
@@ -36,6 +25,18 @@
       <mask>*Spec.j</mask>
       <mask>*Spec.ja</mask>
       <mask>*Spec.java</mask>
+      <mask>*Spec.jav</mask>
+      <mask>*Spe</mask>
+      <mask>*Sp</mask>
+      <mask>*S</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
