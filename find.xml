@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>Readm</mask>
       <mask>Readme*</mask>
       <mask>Readme</mask>
       <mask>*.xm</mask>
@@ -35,6 +33,7 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*.java</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
