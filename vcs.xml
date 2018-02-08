@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/paypal/PayPal-Java-SDK.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Anton_Solianyk@gitbud.epam.com/ctco-fgls/ctco-aecm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\sources" />
