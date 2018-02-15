@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
       <mask>*.x</mask>
       <mask>*.</mask>
@@ -29,12 +29,12 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*.xsd</mask>
       <mask>*.java</mask>
       <mask>FPOE*.groovy</mask>
       <mask>*Fgl*</mask>
       <mask>*.xml</mask>
       <mask>*.groovy</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
