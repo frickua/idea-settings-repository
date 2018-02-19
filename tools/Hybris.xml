@@ -1,0 +1,9 @@
+<toolSet name="Hybris">
+  <tool name="Docker UP" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="up" />
+      <option name="WORKING_DIRECTORY" value="C:/sources/hybris-ppe/env_local/hybris/vm" />
+    </exec>
+  </tool>
+</toolSet>
