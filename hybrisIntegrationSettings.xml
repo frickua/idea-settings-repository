@@ -1,6 +1,8 @@
 <application>
   <component name="HybrisApplicationSettings">
     <option name="allowedSendingPlainStatistics" value="true" />
+    <option name="sourceCodeDirectory" value="C:/sources/hybris" />
+    <option name="sourceZipUsed" value="false" />
     <option name="usedActions">
       <set>
         <option value="IMPORT_PROJECT" />
