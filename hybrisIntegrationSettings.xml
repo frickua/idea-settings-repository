@@ -5,6 +5,7 @@
       <set>
         <option value="IMPORT_PROJECT" />
         <option value="OPEN_PROJECT" />
+        <option value="BUILD_PROJECT" />
       </set>
     </option>
   </component>
