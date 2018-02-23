@@ -22,7 +22,7 @@
   </tool>
   <tool name="Build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/hb.bat" />
+      <option name="COMMAND" value="$ProjectFileDir$/../../../hybris-ppe/hb.bat" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
@@ -31,6 +31,13 @@
     <exec>
       <option name="COMMAND" value="ant.bat" />
       <option name="PARAMETERS" value="updatesystem" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="ant all" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\git\bin\bash.exe" />
+      <option name="PARAMETERS" value="-c &quot;echo 'something'; echo 'some shit'&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
