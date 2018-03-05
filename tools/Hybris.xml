@@ -34,11 +34,18 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="ant all" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ant clean all" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\git\bin\bash.exe" />
-      <option name="PARAMETERS" value="-c &quot;echo 'something'; echo 'some shit'&quot;" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="PARAMETERS" value="-c &quot;ant.bat clean; ant.bat all&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/platform" />
+    </exec>
+  </tool>
+  <tool name="ant dependency" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\git\bin\bash.exe" />
+      <option name="PARAMETERS" value="-c &quot;ant.bat dependency;&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../../hybris-ppe/" />
     </exec>
   </tool>
 </toolSet>
