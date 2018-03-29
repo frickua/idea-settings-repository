@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="``" />
+    <option name="FILE_MASK" value="*.conf" />
     <recentFileMasks>
-      <mask>*.jav</mask>
       <mask>0</mask>
       <mask>*Specd.</mask>
       <mask>*Specd</mask>
@@ -37,6 +34,7 @@
       <mask>*.properties</mask>
       <mask>routes</mask>
       <mask>``</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
