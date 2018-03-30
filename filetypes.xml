@@ -4,6 +4,7 @@
       <mapping pattern="rer" type="JSON" />
       <mapping pattern="json" type="JSON" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
