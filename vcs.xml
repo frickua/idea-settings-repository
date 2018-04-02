@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/asolianyk-epam/java-sdk-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/asolianyk-epam/java-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\sources" />
