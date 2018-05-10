@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>0</mask>
-      <mask>*Specd.</mask>
-      <mask>*Specd</mask>
-      <mask>*Spec</mask>
-      <mask>*Spec.</mask>
-      <mask>*Spec.j</mask>
-      <mask>*Spec.ja</mask>
-      <mask>*Spec.java</mask>
-      <mask>*Spec.jav</mask>
-      <mask>*Spe</mask>
-      <mask>*Sp</mask>
-      <mask>*S</mask>
-      <mask>*</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
-      <mask>*.java</mask>
-      <mask>FPOE*.groovy</mask>
-      <mask>*Fgl*</mask>
-      <mask>*.xml</mask>
-      <mask>*.groovy</mask>
-      <mask>*.xsd</mask>
-      <mask>*.properties</mask>
-      <mask>routes</mask>
-      <mask>``</mask>
-      <mask>*.conf</mask>
-    </recentFileMasks>
   </component>
 </application>
