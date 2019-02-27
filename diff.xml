@@ -4,6 +4,7 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
