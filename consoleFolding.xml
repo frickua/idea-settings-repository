@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[DATASET_CONFIG_FILE]" />
+        <option value="[PRIME_CONFIG]" />
+        <option value="Generating unique operation named" />
+      </list>
+    </option>
+  </component>
+</application>
