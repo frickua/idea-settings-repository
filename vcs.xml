@@ -114,6 +114,10 @@
           <option name="url" value="git@gitlab.dfac.io:BWATDFAC/dfac-polyantha.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dfac.io:BWATDFAC/dfac-config-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\sources" />
