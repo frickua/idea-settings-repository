@@ -3,14 +3,12 @@
     <extensionMap>
       <mapping pattern="rer" type="JSON" />
       <mapping pattern="json" type="JSON" />
-      <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping pattern="account" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="createPaymentStatusTransition" type="PLAIN_TEXT" />
+      <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping ext="meterdto" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" approved="true" type="YAML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping pattern="*.yml.j2" type="YAML_EX" />
       <removed_mapping ext="j2" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
