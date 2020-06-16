@@ -18,5 +18,6 @@
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.yml</mask>
+    <mask>*Controller.*</mask>
   </component>
 </application>
