@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="rer" type="JSON" />
       <mapping pattern="json" type="JSON" />
+      <mapping pattern="webapp" type="PLAIN_TEXT" />
+      <mapping pattern="createPaymentStatusTransition" type="PLAIN_TEXT" />
       <mapping pattern="account" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="changenotes" type="PLAIN_TEXT" />
-      <mapping pattern="createPaymentStatusTransition" type="PLAIN_TEXT" />
-      <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping ext="meterdto" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.j2" type="YAML_EX" />
