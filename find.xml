@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '...\cr-migration-job\src\main\java [dfac-jobs.cr-migration-job.main]'" />
+    <option name="defaultScopeName" value="Directory '...\cr-migration-job\src\main\java [dfac-jobs.cr-migration-job.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\cr-migration-job\src\main\java [dfac-jobs.cr-migration-job.main]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
