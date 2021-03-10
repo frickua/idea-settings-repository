@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="rer" type="JSON" />
       <mapping pattern="json" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping pattern="createPaymentStatusTransition" type="PLAIN_TEXT" />
