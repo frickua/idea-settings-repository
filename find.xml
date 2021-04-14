@@ -20,7 +20,7 @@
     <mask>*.sql</mask>
     <mask>npm-registry.js</mask>
     <mask>*.tsx</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
