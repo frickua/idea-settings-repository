@@ -154,6 +154,10 @@
           <option name="url" value="git@gitlab.dfac.io:BWATDFAC/dfac-stage-processor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hipster-labs/generator-jhipster-entity-audit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\sources" />
