@@ -1,0 +1,23 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="CodeCompletionGroup">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="ProblemsView.QuickFixes" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="ResourceBundleEditorShowIntentions" />
+  <action id="SetShortcutAction" />
+</keymap>

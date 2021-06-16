@@ -1,27 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.md</mask>
-    <mask>*.html</mask>
-    <mask>*Validator.java</mask>
-    <mask>*Test.java</mask>
-    <mask>*.yml</mask>
-    <mask>*Controller.*</mask>
-    <mask>*Controller*</mask>
-    <mask>*.xml</mask>
-    <mask>*.sql</mask>
-    <mask>npm-registry.js</mask>
-    <mask>*.tsx</mask>
-    <mask>*.ts</mask>
-    <mask>*Test*.java</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
