@@ -79,12 +79,12 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="MUnitRunConfiguration">
@@ -125,6 +125,11 @@
                   <entry key="ScalaTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SpaceRunConfiguration">
@@ -214,7 +219,7 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
