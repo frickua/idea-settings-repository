@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'dfac-cultivator'" />
-    <option name="defaultScopeName" value="Project 'dfac-cultivator'" />
-    <option name="SEARCH_SCOPE" value="Project 'dfac-cultivator'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java</mask>
   </component>
 </application>
