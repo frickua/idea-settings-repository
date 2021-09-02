@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="C:/sources" />
+        <option value="$USER_HOME$/sources/preview" />
       </list>
     </option>
   </component>
