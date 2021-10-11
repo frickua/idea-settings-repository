@@ -4,6 +4,7 @@
       <list>
         <option value="C:/sources" />
         <option value="$USER_HOME$/sources/preview" />
+        <option value="$USER_HOME$/sources" />
       </list>
     </option>
   </component>
