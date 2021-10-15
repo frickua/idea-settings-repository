@@ -8,5 +8,6 @@
     <mask>*.*l</mask>
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
