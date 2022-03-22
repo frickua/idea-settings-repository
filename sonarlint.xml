@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.dfac.io/" />
+          <option name="name" value="soanar.dfac.io" />
+          <option name="login" value="admin" />
+          <password>dfc2df9edfcedf92dfd9dfdcdfdbdf9ddfcfdfd9df89df8edfcedfcb</password>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
