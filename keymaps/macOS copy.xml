@@ -19,5 +19,8 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="ResourceBundleEditorShowIntentions" />
+  <action id="Scratch.ShowFilesPopup">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
   <action id="SetShortcutAction" />
 </keymap>
