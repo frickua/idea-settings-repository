@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="yuCGdygHnznFXP1_1rDr" />
+          <option name="apiUrl" value="https://gitlab.dfac.io" />
+          <option name="repositoryUrl" value="gitlab.dfac.io" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
